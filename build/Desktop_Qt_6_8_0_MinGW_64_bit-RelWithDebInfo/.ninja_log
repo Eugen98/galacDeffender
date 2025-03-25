@@ -1,0 +1,16 @@
+# ninja log v6
+10	1742	7554618056989175	galacDeff_autogen/timestamp	d8efdda4902cfd83
+10	1742	7554618056989175	galacDeff_autogen/mocs_compilation.cpp	d8efdda4902cfd83
+10	1742	7554618056989175	D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/galacDeff_autogen/timestamp	d8efdda4902cfd83
+10	1742	7554618056989175	D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/galacDeff_autogen/mocs_compilation.cpp	d8efdda4902cfd83
+1750	2156	7554618062236297	galacDeff_autogen/EWIEGA46WW/qrc_resources.cpp	93ff06191a0d1a8f
+1750	2156	7554618062236297	D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/galacDeff_autogen/EWIEGA46WW/qrc_resources.cpp	93ff06191a0d1a8f
+2184	7012	7554618062673496	CMakeFiles/galacDeff.dir/enemy.cpp.obj	90e0cb43fcca344
+2166	7386	7554618062496072	CMakeFiles/galacDeff.dir/mainwindow.cpp.obj	9bde0be26c17e90f
+2175	7444	7554618062583698	CMakeFiles/galacDeff.dir/player.cpp.obj	d5457e1ae02603e2
+2161	7621	7554618062456178	CMakeFiles/galacDeff.dir/main.cpp.obj	470ad1e1bf567844
+2170	7761	7554618062545938	CMakeFiles/galacDeff.dir/game.cpp.obj	6963eaa1710645cd
+2156	7767	7554618062406274	CMakeFiles/galacDeff.dir/galacDeff_autogen/mocs_compilation.cpp.obj	d39a24525fc907a1
+2179	7797	7554618062633601	CMakeFiles/galacDeff.dir/bullet.cpp.obj	5d8a552ed105ad52
+2188	12299	7554618062723356	CMakeFiles/galacDeff.dir/galacDeff_autogen/EWIEGA46WW/qrc_resources.cpp.obj	c4add72a508b781a
+12300	13016	7554618163836138	galacDeff.exe	4648b32ecc1e9e26

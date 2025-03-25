@@ -1,0 +1,9 @@
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/galacDeff.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/edit_cache.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/list_install_components.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/install.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/install/local.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/install/strip.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/galacDeff_autogen_timestamp_deps.dir
+D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/galacDeff_autogen.dir

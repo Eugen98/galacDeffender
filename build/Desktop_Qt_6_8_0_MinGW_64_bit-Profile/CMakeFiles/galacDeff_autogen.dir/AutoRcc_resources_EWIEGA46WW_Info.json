@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-Profile/galacDeff_autogen",
+	"CMAKE_BINARY_DIR" : "D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-Profile",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-Profile",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/galacDeff",
+	"CMAKE_SOURCE_DIR" : "D:/galacDeff",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-Profile/galacDeff_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/galacDeff/images/bullet.png",
+		"D:/galacDeff/images/player.png",
+		"D:/galacDeff/images/enemy.png",
+		"D:/galacDeff/images/start_background.png",
+		"D:/galacDeff/sound/start_music.wav"
+	],
+	"LOCK_FILE" : "D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-Profile/CMakeFiles/galacDeff_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.8.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/galacDeff/build/Desktop_Qt_6_8_0_MinGW_64_bit-Profile/CMakeFiles/galacDeff_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/galacDeff/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

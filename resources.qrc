@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images/start_background.png">
+        <file>images/start_background.png</file>
+    </qresource>
+    <qresource prefix="/sounds/start_music.wav">
+        <file>sound/start_music.wav</file>
+        <file>sound/shootl.wav</file>
+    </qresource>
+    <qresource prefix="/images/bullet.png">
+        <file>images/bullet.png</file>
+    </qresource>
+    <qresource prefix="/images/enemy.png">
+        <file>images/enemyl.png</file>
+    </qresource>
+    <qresource prefix="/images/player.png">
+        <file>images/playerl.png</file>
+    </qresource>
+</RCC>
